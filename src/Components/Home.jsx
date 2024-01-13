@@ -10,6 +10,7 @@ function Home() {
           className="card-img"
           alt="background"
         />
+        
         <div className="card-img-overlay"></div>
       </div>
      
