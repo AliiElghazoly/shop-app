@@ -60,14 +60,14 @@ function NavBar() {
             <Link to="/login" className="btn btn-outline-dark">
               <i class="fa fa-sign-in" aria-hidden="true"></i>
             </Link>
-            <Link to="/register" className="btn btn-outline-dark ms-2">
+            <Link to="/register" className="btn btn-outline-dark m-2">
               <i class="fa fa-user-plus"></i>
             </Link>
-            <Link to="/cart" className="btn btn-outline-dark ms-2">
+          </div>
+          </div>
+            <Link to="/cart" className="btn btn-outline-dark my-1">
               <i className="fa fa-shopping-cart me-1"></i>({state.length})
             </Link>
-          </div>
-          </div>
         </div>
       </nav>
 

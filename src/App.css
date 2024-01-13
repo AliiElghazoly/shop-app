@@ -3,6 +3,9 @@
   color: black;
   font-family: 'Pacifico', cursive;
 }
+.navbar-toggler{
+  margin-left: 45%;
+}
 .nav-item a{
   color: #aaa;
   font-weight: bolder;
