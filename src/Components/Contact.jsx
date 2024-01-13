@@ -50,7 +50,7 @@ function Contact() {
                   placeholder="Enter your message"
                 ></textarea>
               </div>
-              <Link to="/" type="submit" className="btn btn-primary">
+              <Link to="/shop-app" type="submit" className="btn btn-primary">
                 Submit
               </Link>
             </form>

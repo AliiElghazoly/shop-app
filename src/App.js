@@ -18,7 +18,7 @@ function App() {
         <NavBar />
         <Routes>
           <Route
-            path="/"
+            path="/shop-app"
             element={
               <>
                 <Home />

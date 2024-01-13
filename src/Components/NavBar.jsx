@@ -15,7 +15,7 @@ function NavBar() {
     <>
       <nav className="navbar navbar-expand-lg bg-white py-3 shadow-sm">
         <div className="container">
-          <Link className="text-decoration-none fw-bold fs-4 logo" to="/">
+          <Link className="text-decoration-none fw-bold fs-4 logo" to="/shop-app">
             ShopX
           </Link>
           <button
@@ -36,7 +36,7 @@ function NavBar() {
           >
             <ul className="navbar-nav mx-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <Link className="nav-link " aria-current="page" to="/">
+                <Link className="nav-link " aria-current="page" to="/shop-app">
                   Home
                 </Link>
               </li>
