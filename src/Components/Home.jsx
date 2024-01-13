@@ -6,7 +6,7 @@ function Home() {
     <div className="hero">
       <div className="card text-bg-dark border-0">
         <img
-          src="EcommerceBackground.jpg"
+          src="https://raw.githubusercontent.com/AliiElghazoly/shop-app/main/public/EcommerceBackground.jpg"
           className="card-img"
           alt="background"
         />

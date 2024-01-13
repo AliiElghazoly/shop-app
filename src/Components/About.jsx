@@ -12,13 +12,13 @@ function About() {
         width="600px"
       >
         <div>
-          <img src="shop.jpg" alt="..." />
+          <img src="https://raw.githubusercontent.com/AliiElghazoly/shop-app/main/public/shop.jpg" alt="..." />
         </div>
         <div>
-          <img src="istockphoto-1429456277-1024x1024.jpg" alt="..." />
+          <img src="https://raw.githubusercontent.com/AliiElghazoly/shop-app/main/public/istockphoto-1447845897-1024x1024.jpg" alt="..." />
         </div>
         <div>
-          <img src="istockphoto-1447845897-1024x1024.jpg" alt="..." />
+          <img src="https://raw.githubusercontent.com/AliiElghazoly/shop-app/main/public/istockphoto-1429456277-1024x1024.jpg" alt="..." />
         </div>
       </Carousel>
 
