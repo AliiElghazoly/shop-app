@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shop-app/static/css/main.a5aa47e4.css",
-    "main.js": "/shop-app/static/js/main.a87a4a1b.js",
+    "main.js": "/shop-app/static/js/main.d414037c.js",
     "static/js/787.264d8471.chunk.js": "/shop-app/static/js/787.264d8471.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/shop-app/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/shop-app/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -10,11 +10,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/shop-app/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/shop-app/index.html",
     "main.a5aa47e4.css.map": "/shop-app/static/css/main.a5aa47e4.css.map",
-    "main.a87a4a1b.js.map": "/shop-app/static/js/main.a87a4a1b.js.map",
+    "main.d414037c.js.map": "/shop-app/static/js/main.d414037c.js.map",
     "787.264d8471.chunk.js.map": "/shop-app/static/js/787.264d8471.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5aa47e4.css",
-    "static/js/main.a87a4a1b.js"
+    "static/js/main.d414037c.js"
   ]
 }
